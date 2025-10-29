@@ -1,0 +1,54 @@
+{
+  "location": [
+    {
+      "location": "Upstairs office",
+      "description": "Upstairs, first door to the right, there's a shelf next to the door",
+      "id": 1
+    },
+    {
+      "location": "Living room shelf",
+      "description": "The shelf next to the living room couch",
+      "id": 2
+    },
+    {
+      "location": "Living room 2",
+      "description": "Huge pile of books hidden behind the couch",
+      "id": 3
+    },
+    {
+      "location": "Bill's house",
+      "description": "Bill Bailey's house - great friend, horrible book borrower",
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "locationId": 1,
+      "title": "La casa de los espíritus",
+      "author": "Isabel Allende",
+      "description": "Magical realism, Trueba family story",
+      "id": 1
+    },
+    {
+      "locationId": 3,
+      "title": "The Last Unicorn",
+      "author": "Peter S. Beagle",
+      "description": "Fantasy, but more than that",
+      "id": 2
+    },
+    {
+      "locationId": 2,
+      "title": "Les Furtifs",
+      "author": "Alain Damasio",
+      "description": "Sci-fi, mass surveillance and biological changes in answer to that",
+      "id": 3
+    },
+    {
+      "locationId": 4,
+      "title": "Semiosis",
+      "author": "Sue Burke",
+      "description": "Sci-fi, exploring the idea of different thought systems from another angle",
+      "id": 3
+    }
+  ]
+}
